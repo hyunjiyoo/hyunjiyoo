@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Javascript, React, Typescript ..
+- 🌱 I’m currently learning Javascript, React, Vue, Typescript ..
 - 📝 I love writing: [ notion link ](https://hjyooo.notion.site/DEV-NOTE-74079f8bf0da424f8d89677c9762aca4)
 - 🚀 This is my website: https://hjyoo-portfolio.vercel.app/
 - 📫 How to reach me: hjyoo.dev@gmail.com
